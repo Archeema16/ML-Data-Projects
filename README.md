@@ -1,2 +1,2 @@
 # AIML
-The repo contains Machine Learning Projects.
+The repo contains Machine Learning & Deep Learning Projects.
