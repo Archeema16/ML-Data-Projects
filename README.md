@@ -18,5 +18,5 @@ Support Vector Machine (SVM)<br>
 Decision Tree and Random Forest<br>
 K-Means Clustering<br>
 K Nearest Neighbour<br>
-Linear Regression<br>
+Housing Price Evaluation Using Linear Regression<br>
 Heirarchical Clustering<br>
