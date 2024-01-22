@@ -5,13 +5,13 @@ Welcome to my machine learning and data analysis projects repository! This colle
 <br><br>
 **Table of Contents**
 <br><br>
-**Keras Projects:** <br>
+**Deep Learning Projects- Keras:** <br>
 Cat Vs Dog Classifier<br>
 Fashion Cloths Classifier <br>
 NLP Document Classifier <br>
 NLP Sentiment Classifier for IMDB Reviews <br>
 
-**Scikit-Learn Projects:** <br>
+**Machine Learning Projects- Scitkit Learn** <br>
 Housing Price Evaluation Using Linear Regression<br>
 Titanic Passenger Survival Evaluation Using Logistic Regression <br>
 Principal Component Analysis (PCA) <br>
