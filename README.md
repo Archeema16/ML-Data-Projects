@@ -6,7 +6,7 @@ Welcome to my machine learning and data analysis projects repository! This colle
 **Table of Contents**
 <br><br>
 **Deep Learning Projects- Keras:** <br>
-Cat Vs Dog Classifier<br>
+Google Photos Imitator<br>
 Fashion Cloths Classifier <br>
 NLP Document Classifier <br>
 NLP Sentiment Classifier for IMDB Reviews <br>
