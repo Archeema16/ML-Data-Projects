@@ -17,6 +17,6 @@ Titanic Passenger Survival Evaluation Using Logistic Regression <br>
 Principal Component Analysis (PCA) <br>
 Support Vector Machine (SVM)<br>
 Decision Tree and Random Forest<br>
-K-Means Clustering<br>
+K-Means Clustering <br>
 Penguin Dataset Evaluation Using KNN and OVR/Multinomial Logistic Regression<br>
 Heirarchical Clustering<br>
