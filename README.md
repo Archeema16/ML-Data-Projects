@@ -6,7 +6,7 @@ Welcome to my machine learning and data analysis projects repository! This colle
 **Table of Contents**
 <br><br>
 **Deep Learning Projects- Keras:** <br>
-Cat Vs Dog Classifier<br>
+Google Photos Imitator<br>
 Fashion Cloths Classifier <br>
 NLP Document Classifier <br>
 NLP Sentiment Classifier for IMDB Reviews <br>
@@ -17,6 +17,6 @@ Titanic Passenger Survival Evaluation Using Logistic Regression <br>
 Principal Component Analysis (PCA) <br>
 Support Vector Machine (SVM)<br>
 Decision Tree and Random Forest<br>
-K-Means Clustering<br>
-K Nearest Neighbour<br>
+K-Means Clustering <br>
+Penguin Dataset Evaluation Using KNN and OVR/Multinomial Logistic Regression<br>
 Heirarchical Clustering<br>
