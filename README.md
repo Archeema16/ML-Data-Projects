@@ -15,7 +15,7 @@ NLP Sentiment Classifier for IMDB Reviews <br>
 Housing Price Evaluation Using Linear Regression<br>
 Titanic Passenger Survival Evaluation Using Logistic Regression <br>
 Principal Component Analysis (PCA) <br>
-Support Vector Machine (SVM)<br>
+Breast Cancer Classification Using Support Vector Machine (SVM)<br>
 Decision Tree and Random Forest<br>
 K-Means Clustering <br>
 Penguin Dataset Evaluation Using KNN and OVR/Multinomial Logistic Regression<br>
