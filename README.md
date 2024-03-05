@@ -1,7 +1,7 @@
 **Machine Learning and Data Analysis Projects Repository** <br><br>
 
 **Overview:-** <br><br>
-Welcome to my machine learning and data analysis projects repository! This collection includes a variety of Jupyter Notebooks showcasing  my work in different domains, ranging from computer vision and natural language processing to classical machine learning algorithms using popular libraries like Keras  and Scikit-Learn.
+Welcome to my machine learning and data analysis projects repository! This collection includes a variety of Jupyter Notebooks showcasing  my work in different domains, ranging from computer vision and natural language processing to classical machine learning algorithms using popular libraries like Keras and Scikit-Learn.
 <br><br>
 **Table of Contents**
 <br><br>
