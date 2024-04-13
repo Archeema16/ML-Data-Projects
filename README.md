@@ -9,7 +9,7 @@ Welcome to my machine learning and data analysis projects repository!  This coll
 Cat Vs Dog Classifier <br>
 Fashion Cloths Classifier <br>
 NLP Document Classifier <br>
-NLP Sentiment Classifier for IMDB Reviews <br>
+NLP Sentiment Classifier for IMDB Reviews <br> 
 
 **Machine Learning Projects- Scitkit Learn** <br>
 Housing Price Evaluation Using Linear Regression<br>
